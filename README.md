@@ -1,0 +1,1 @@
+This repo is for practicing Design patterns using the Python language
