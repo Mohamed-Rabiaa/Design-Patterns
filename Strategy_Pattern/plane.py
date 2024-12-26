@@ -1,4 +1,4 @@
-from travels_method import TravelMethod
+from travel_method import TravelMethod
 
 class Plane(TravelMethod):
     def execute(self):

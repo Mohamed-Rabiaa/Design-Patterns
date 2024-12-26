@@ -4,7 +4,7 @@ from train import Train
 from plane import Plane
 
 def get_valid_miles():
-    """ Prompts the user to enter a valid miles number"""
+    """ Prompts the user to enter a valid miles number """
     while True:
         miles = int(input("How many miles do you want to travel?\n"))
         if miles >= 0:
